@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+  
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#000001"/>
+    <meta property="og:image" content="cdn.discordapp.com/emojis/911692966060511274081a.png?size=96">
+    <link rel="shortcut icon" href="https://cdn.discordapp.com/attachments/637851826787450880/940401298455560242/RoundPhoto_Feb072022_203959.png" type="image/gif">
+    <meta property="og:title" content="fake friends"/>
+    <meta property="og:description" content="strolly">
+
+   </head>
+
+<body>
+
+  <div class="container">
+    <input type="radio" name="dot" id="one">
+    <input type="radio" name="dot" id="two">
+    <a href="https://www.instagram.com/ogstrolly/?hl=pt-br" target="_blank">
+    <div class="main-card">
+      <div class="cards">    
+        <div class="card">
+         <div class="content">
+          <div class="img">
+          <img src="https://cdn.discordapp.com/avatars/171576345090981888/6bb54a48ba62b1fb4e374e962136e98a.png?size=1024" alt="strolly">
+          </a>
+           </div>
+             <div class="name">strolly#1337</div>
+             <div class="badges">
+
+                         
+            <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/HypeSquad_Brilliance.svg" width="20" height="15" alt=""/>
+            
+            <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/early_supporter.svg" width="20" height="15">
+             <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/nitro.svg" width="20" height="15">
+             <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/boost15month.svg" width="20" height="17">
+           </div>
+         </div>
+        </div>
+
+        <a href="https://www.instagram.com/focuss.dc/?hl=pt-br" target="_blank">     
+        <div class="card">
+         <div class="content">
+           <div class="img">
+            <img src="https://media.discordapp.net/attachments/940300349124788264/940719091893813268/IMG_9904.jpg?width=671&height=670" alt="focuss">
+           </div>
+          </a>
+           <div class="name">focuss#0044</div>
+           <div class="badges">
+               
+            <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/HypeSquad_Event.svg" width="20" height="15">
+            <img src="https:/raw.githubusercontent.com/yogurtd3vil/badges/main/svg/HypeSquad_Brilliance.svg" width="20" height="15" alt=""/>
+            <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/early_supporter.svg" width="20" height="15">
+            <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/nitro.svg" width="20" height="15">
+            <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/boost1month.svg" width="20" height="20">
+           </div>
+ 
+         </div>
+        </div>
+ 
+        <a href="https://www.instagram.com/vitorzjnn/" target="_blank">
+         <div class="card">
+         <div class="content">
+           <div class="img">
+            <img src="https://cdn.discordapp.com/avatars/404019210306453504/d4cd515242f86024716d64a7b3316cfa.png?size=1024" alt="vitorzinnn">
+           </div>
+          </a>
+           <div class="name">vitorzinnn#0001</div>
+           <div class="badges">
+               
+            <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/HypeSquad_Balance.svg" width="20" height="15" alt=""/>
+            <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/Verified_Bot_Developer.svg" width="20" height="18">
+            <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/nitro.svg" width="20" height="15">
+             <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/boost1month.svg" width="20">
+           </div>
+
+         </div>
+        </div>
+        
+        <a href="https://www.instagram.com/dzn.dc/" target="_blank">
+        <div class="card">
+         <div class="content">
+           <div class="img">
+           <img src="https://cdn.discordapp.com/avatars/386215881966878721/a_2287e17d6fcfb7059a11523c6ca920e0.gif?size=1024" alt="dzn">
+           </div>
+          </a>
+           <div class="name">dzn#0001</div>
+           <div class="badges">
+            
+             <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/nitro.svg" width="20" height="15">
+             <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/boost12month.svg" width="20" height="17">
+              </div>
+         </div>
+        </div>
+      </div>
+
+      <a href="https://www.instagram.com/tonyfofo/" target="_blank">
+      <div class="cards">
+        <div class="card">
+         <div class="content">
+           <div class="img">
+            <img src="https://cdn.discordapp.com/avatars/940349795644637214/6244f8af02777d37e13e051e5a621117.png?size=1024" alt="tonyy">
+           </div>
+           </a>
+           <div class="name">tony.#1701</div>
+           <div class="badges">
+                       
+            <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/HypeSquad_Balance.svg" width="20" height="15" alt=""/>
+            
+             <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/Verified_Bot_Developer.svg" width="20" height="18">
+             <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/nitro.svg" width="20" height="15">
+            <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/boost1month.svg" width="20" height="17">
+           </div>
+         </div>
+        </div>
+
+        <a href="" target="_blank">
+        <div class="card">
+         <div class="content">
+           <div class="img">
+            <img src="https://media.discordapp.net/attachments/637851826787450880/940401203710394419/RoundPhoto_Feb072022_204335.png" alt="nando">
+           </div>
+          </a>
+           <div class="name">ognando#7482</div>
+           <div class="badges">
+                       
+            <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/HypeSquad_Balance.svg" width="20" height="15" alt=""/>
+             <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/early_supporter.svg" width="20" height="15">
+           </div>
+         </div>
+        </div>
+        
+        <a href="https://www.instagram.com/lck.dc/" target="_blank">
+        <div class="card">
+         <div class="content">
+           <div class="img">
+            <img src="https://images-ext-2.discordapp.net/external/M9HogQd6P9-Hm-Yob96AR7ltG78aST5xE3Dmjl9eWoY/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/319844843381587969/8026e962b97ec9b88e0968111f9c373e.png" alt="lck">
+           </div>
+          </a>
+           <div class="name">lck#1000</div>
+           <div class="badges">
+            
+             <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/HypeSquad_Balance.svg" width="20" height="15" alt=""/>
+            
+             <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/early_supporter.svg" width="20" height="15">
+              <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/nitro.svg" width="20" height="15">
+              <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/boost12month.svg" width="20" height="18">
+           </div>
+         </div>
+        </div>
+
+        <a href="https://www.instagram.com/darkage.dc/" target="_blank">
+        <div class="card">
+         <div class="content">
+           <div class="img">
+            <img src="https://cdn.discordapp.com/avatars/364244004524523521/a_0f460a5535dde507afd5782fd3dd9cff.gif?size=1024" alt="qt">
+           </div>
+           </a>
+           <div class="name">qt#1337</div>
+           <div class="badges">
+                       
+             <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/nitro.svg" width="20" height="15">
+             <img src="https://raw.githubusercontent.com/yogurtd3vil/badges/main/svg/boost1month.svg" width="20" height="17">
+           </div>
+         </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="button">
+      <label for="one" class=" active one"></label>
+      <label for="two" class="two"></label>
+    </div>
+
+    <button onclick="discord()" style="cursor:pointer" class="button5" type="button">SERVIDOR</button>
+
+  </div>
+
+    <script>
+  const discord = () => window.open('https://discord.gg/fakefriends', '_blank');
+  document.body.style.backgroundColor = `#000001`;
+
+
+  var rev = "fwd";
+    function titlebar(val){
+        var msg  = "fake friends";
+        var res = " ";
+        var speed = 100;
+        var pos = val;
+        msg = ""+msg+"";
+        var le = msg.length;
+        if(rev == "fwd"){
+            if(pos < le){
+                pos = pos+1;
+                scroll = msg.substr(0,pos);
+                document.title = scroll;
+                timer = window.setTimeout("titlebar("+pos+")",speed);
+            }
+            else {
+                rev = "bwd";
+                timer = window.setTimeout("titlebar("+pos+")",speed);
+            }
+        }
+        else {
+            if(pos > 0) {
+                pos = pos-1;
+                var ale = le-pos;
+                scrol = msg.substr(ale,le);
+                document.title = scrol;
+                timer = window.setTimeout("titlebar("+pos+")",speed);
+            }
+            else {
+                rev = "fwd";
+                timer = window.setTimeout("titlebar("+pos+")",speed);
+            }
+        }
+    }
+    titlebar(0);
+       </script>
+       
+<audio autoplay="autoplay" preload="auto" loop="">
+  <source src="msc.mp3" type="audio/mp3">
+</audio>
+  
+<video id="video" autoplay="" loop="" muted="">
+  <source src="fundo.mp4" type="video/webm">
+  </video>
+    
+</body>
+
+</html>
