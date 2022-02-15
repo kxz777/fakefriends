@@ -1,1 +1,2 @@
 # fakefriends
+simple website 
